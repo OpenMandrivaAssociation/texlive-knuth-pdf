@@ -1,6 +1,6 @@
 Name:		texlive-knuth-pdf
-Version:	62969
-Release:	2
+Version:	67332
+Release:	1
 Summary:	PDF collection of typeset C/WEB sources in TeX Live
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/knuth-pdf
