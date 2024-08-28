@@ -1,5 +1,5 @@
 Name:		texlive-knuth-pdf
-Version:	67332
+Version:	72018
 Release:	1
 Summary:	PDF collection of typeset C/WEB sources in TeX Live
 Group:		Publishing
