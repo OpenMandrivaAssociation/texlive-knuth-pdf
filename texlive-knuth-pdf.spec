@@ -3,7 +3,7 @@ Version:	72018
 Release:	1
 Summary:	PDF collection of typeset C/WEB sources in TeX Live
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/knuth-pdf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/knuth-pdf
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/knuth-pdf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/knuth-pdf.doc.r%{version}.tar.xz
